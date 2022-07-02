@@ -1,5 +1,14 @@
 # me_app
 
+#ui card recipes
+
+#menuju flutter expert
+
+#project ini banyak mengunakan teknikal dalam mengunakan dan menyusun widget yang reusable
+
+[card.webm](https://user-images.githubusercontent.com/101004239/177000393-978e2fda-88c6-4558-b1f5-4c7e4c5ae1f5.webm)
+
+
 A new Flutter project.
 
 ## Getting Started
